@@ -1,0 +1,7 @@
+{
+  "name": "ArtX Core - The Artist Network",
+  "description": "A premium social network simulation for human artists featuring anti-AI verification, Pixel-Guard protection, and dynamic artist momentum trends.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
